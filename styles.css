@@ -1,13 +1,10 @@
 body{Font-Family: Helvetica
 ;Text-Align:Center;Background-color:black
 }
-
 body{color:black}
-
 h1{
   color:#461775;Font-Size:500%
   }
-
 
 .Title{
   color:#461775; Font-Size:400%
@@ -16,7 +13,6 @@ h1{
 .text{
   color:black;Font-Size:150%
 }
-
 
 .topnav {
   background-color: #333;
@@ -37,16 +33,11 @@ h1{
   background-color: #ddd;
       color: black;}
      
-    
-    
-    
     table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
 }
-    
-    
-    
+  
    table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
